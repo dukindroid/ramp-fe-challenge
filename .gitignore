@@ -1,0 +1,6 @@
+/.prettierrc.json
+/.vscode
+/node_modules
+/pnpm-lock.yaml
+/public
+/yarn.lock
